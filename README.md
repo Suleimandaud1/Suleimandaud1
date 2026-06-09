@@ -18,6 +18,6 @@ I'm a ✨ CS Graduate from BITS Pilani Dubai ✨ , where i have deepened my know
 - **Soft Skills:** B2B Sales, Client Relationship Management, Cross-Functional Coordination, Negotiation, Multi-Workstream Management
 
 
-## 📫 How to Reach Me
+## 📫 How to Reach Me 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-sulaimandaud-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/suleiman-bin-daud-82661132a/)
-[![Email](https://img.shields.io/badge/Gmail-sulaimandaud105-D14836?style=flat&logo=gmail&logoColor=white)](mailto:sulaimandaud105@gmail.com)
+[![Email](https://img.shields.io/badge/Gmail-sulaimandaud105-D14836?style=flat&logo=gmail&logoColor=white)](mailto:sulaimandaud105@gmail.com) 
